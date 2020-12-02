@@ -65,5 +65,11 @@
       <DependentUpon>UserControl1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sphere.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cone.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
